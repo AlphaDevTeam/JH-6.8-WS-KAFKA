@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.alphadevs.com"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "WebSocketKafkaVanilaJH",
+    "packageName": "com.alphadevs.com",
+    "packageFolder": "com/alphadevs/com",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWVjY2FiNmQ4NTk1MzYxYTk4MWFjMWUxMzdkZWM3ZTExZTkyMDMxNDc3NzlhNWRlNjg5YjY0YTMxNWZlZGI5ODhlYWMwYmRkZjM5NGNiNTUyZGYxZTE0MjIxZWMzYWU0YmQyNTJmMzY2ZDA4OWRhNzM4N2FiYzE3YTA1ZmExMDY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1584383563162,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
